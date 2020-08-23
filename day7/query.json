@@ -1,0 +1,3 @@
+db.student_info.find({
+	"gender": "male"
+})

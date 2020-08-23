@@ -1,0 +1,19 @@
+{
+	"name": "homepageapi",
+	"version": "1.0.0",
+	"description": "This is about homepage API",
+	"main": "index.js",
+	"scripts": {
+		"start": "node home.js",
+		"dev": "nodemon home.js"
+	},
+	"keywords": [
+		"node",
+		"zomato"
+	],
+	"author": "rakesh",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
